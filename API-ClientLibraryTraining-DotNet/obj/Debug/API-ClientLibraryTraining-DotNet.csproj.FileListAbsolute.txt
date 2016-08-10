@@ -1,0 +1,10 @@
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\bin\Debug\API-ClientLibraryTraining-DotNet.exe
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\bin\Debug\API-ClientLibraryTraining-DotNet.pdb
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\bin\Debug\JWT.dll
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\bin\Debug\RestSharp.dll
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\bin\Debug\RicOneApi.dll
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\bin\Debug\RestSharp.xml
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\obj\Debug\API-ClientLibraryTraining-DotNet.exe
+C:\Users\daniel.whitehouse\Documents\Visual Studio 2013\Projects\API-ClientLibraryTraining-DotNet\API-ClientLibraryTraining-DotNet\obj\Debug\API-ClientLibraryTraining-DotNet.pdb
